@@ -1,0 +1,13 @@
+{
+  "name": "i18next-node_example",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.13.4",
+    "i18next": "~2.2.0",
+    "i18next-express-middleware": "~0.3.1",
+    "i18next-node-fs-backend": "0.0.6",
+    "jade": "~1.11.0"
+  },
+  "devDependencies": {}
+}
