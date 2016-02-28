@@ -61,4 +61,4 @@ app.listen(3000, function() {
 
 ## Reference
 * [https://github.com/i18next/i18next-node](https://github.com/i18next/i18next-node)
-* [https://github.com/i18next/i18next-node-fs-backend]
+* [https://github.com/i18next/i18next-node-fs-backend](https://github.com/i18next/i18next-node-fs-backend)
